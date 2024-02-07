@@ -1,0 +1,7 @@
+cibreak:
+  halfOpenTimeout: 1000
+  failureMonitoringFrequency: 2000
+  failureThreshold: 0.5
+  successThreshold: 3
+  exceptionType: org.ypolin.cibreak.demo.ExtServiceUnavailableException
+
